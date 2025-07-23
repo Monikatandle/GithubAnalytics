@@ -1,5 +1,4 @@
-
-        const API_BASE = 'https://api.github.com';
+const API_BASE = 'https://api.github.com';
         let languageChart, repoChart;
 
         // DOM Elements
@@ -217,4 +216,5 @@
             results.classList.add('hidden');
         }
 
+    
        
